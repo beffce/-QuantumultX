@@ -27,3 +27,9 @@ DOMAIN-SUFFIX,yuedu.iqiyi.com,REJECT
 DOMAIN-SUFFIX,iqiyi.irs01.com,REJECT
 DOMAIN-SUFFIX,qiqiyii.com,REJECT
 DOMAIN-SUFFIX,ifacelog.iqiyi.com,REJECT
+DOMAIN-SUFFIX,cc.dace.hupu.com,REJECT
+DOMAIN-SUFFIX,hd.hupu.com,REJECT
+DOMAIN-SUFFIX,shence.hupu.com,REJECT
+DOMAIN-SUFFIX,adx.hupu.com,REJECT
+DOMAIN-SUFFIX,ccdace.hupu.com,REJECT
+DOMAIN-SUFFIX,goblin.hupu.com,REJECT

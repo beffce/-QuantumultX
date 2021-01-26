@@ -33,3 +33,14 @@ DOMAIN-SUFFIX,shence.hupu.com,REJECT
 DOMAIN-SUFFIX,adx.hupu.com,REJECT
 DOMAIN-SUFFIX,ccdace.hupu.com,REJECT
 DOMAIN-SUFFIX,goblin.hupu.com,REJECT
+DOMAIN-SUFFIX,zhihu.xmcimg.com,REJECT
+DOMAIN-SUFFIX,sugar.zhihu.com,REJECT
+DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com,REJECT
+DOMAIN-SUFFIX,zhstatic.zhihu.com,REJECT
+DOMAIN-SUFFIX,mqtt.zhihu.com,REJECT
+DOMAIN-SUFFIX,sibozhihui-lc.com,REJECT
+DOMAIN-SUFFIX,analytics.zhihu.com,REJECT
+DOMAIN,lc-push.zhihu.com,REJECT
+DOMAIN,appcloud2.in.zhihu.com,REJECT
+DOMAIN,appcloud2.zhihu.com,REJECT
+DOMAIN,event.zhihu.com,REJECT

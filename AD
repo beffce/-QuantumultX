@@ -221,3 +221,6 @@ DOMAIN-SUFFIX,xc.gdt.qq.com,REJECT
 DOMAIN-SUFFIX,ltsdl.qq.com,REJECT
 DOMAIN-SUFFIX,api.e.qq.com,REJECT
 DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com,REJECT
+DOMAIN-SUFFIX,bdstatis.eastmoney.com,REJECT
+DOMAIN-SUFFIX,bd-fireworks.eastmoney.com,REJECT
+DOMAIN-SUFFIX,bduserlog.eastmoney.com,REJECT

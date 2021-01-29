@@ -224,3 +224,5 @@ DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com,REJECT
 DOMAIN-SUFFIX,bdstatis.eastmoney.com,REJECT
 DOMAIN-SUFFIX,bd-fireworks.eastmoney.com,REJECT
 DOMAIN-SUFFIX,bduserlog.eastmoney.com,REJECT
+DOMAIN-SUFFIX,nhtradecfg.eastmoney.com,REJECT
+DOMAIN-SUFFIX,datacenter.eastmoney.com,REJECT

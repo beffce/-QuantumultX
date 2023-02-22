@@ -1,300 +1,300 @@
-# Streaming Media
+# 💻 国外影视 Media
 
 # (Live)
 # > Twitch
-DOMAIN-SUFFIX,ext-twitch.tv,Streaming
-DOMAIN-SUFFIX,jtvnw.net,Streaming
-DOMAIN-SUFFIX,ttvnw.net,Streaming
-DOMAIN-SUFFIX,twitch.tv,Streaming
-DOMAIN-SUFFIX,twitchcdn.net,Streaming
-DOMAIN-SUFFIX,twitch-ext.rootonline.de,Streaming
+DOMAIN-SUFFIX,ext-twitch.tv,💻 国外影视
+DOMAIN-SUFFIX,jtvnw.net,💻 国外影视
+DOMAIN-SUFFIX,ttvnw.net,💻 国外影视
+DOMAIN-SUFFIX,twitch.tv,💻 国外影视
+DOMAIN-SUFFIX,twitchcdn.net,💻 国外影视
+DOMAIN-SUFFIX,twitch-ext.rootonline.de,💻 国外影视
 
 # (Music)
 # > Deezer
-USER-AGENT,Deezer*,Streaming
-DOMAIN-SUFFIX,deezer.com,Streaming
-DOMAIN-SUFFIX,dzcdn.net,Streaming
+USER-AGENT,Deezer*,💻 国外影视
+DOMAIN-SUFFIX,deezer.com,💻 国外影视
+DOMAIN-SUFFIX,dzcdn.net,💻 国外影视
 # > JOOX
-USER-AGENT,JOOX*,Streaming
-USER-AGENT,WeMusic*,Streaming
-DOMAIN-SUFFIX,joox.com,Streaming
-DOMAIN-KEYWORD,jooxweb-api,Streaming
+USER-AGENT,JOOX*,💻 国外影视
+USER-AGENT,WeMusic*,💻 国外影视
+DOMAIN-SUFFIX,joox.com,💻 国外影视
+DOMAIN-KEYWORD,jooxweb-api,💻 国外影视
 # > KKBOX
-DOMAIN-SUFFIX,kkbox.com,Streaming
-DOMAIN-SUFFIX,kkbox.com.tw,Streaming
-DOMAIN-SUFFIX,kfs.io,Streaming
+DOMAIN-SUFFIX,kkbox.com,💻 国外影视
+DOMAIN-SUFFIX,kkbox.com.tw,💻 国外影视
+DOMAIN-SUFFIX,kfs.io,💻 国外影视
 # > Pandora
-USER-AGENT,Pandora*,Streaming
-DOMAIN-SUFFIX,pandora.com,Streaming
+USER-AGENT,Pandora*,💻 国外影视
+DOMAIN-SUFFIX,pandora.com,💻 国外影视
 # > SoundCloud
-USER-AGENT,SoundCloud*,Streaming
-DOMAIN-SUFFIX,p-cdn.us,Streaming
-DOMAIN-SUFFIX,sndcdn.com,Streaming
-DOMAIN-SUFFIX,soundcloud.com,Streaming
+USER-AGENT,SoundCloud*,💻 国外影视
+DOMAIN-SUFFIX,p-cdn.us,💻 国外影视
+DOMAIN-SUFFIX,sndcdn.com,💻 国外影视
+DOMAIN-SUFFIX,soundcloud.com,💻 国外影视
 # > Spotify
-USER-AGENT,Spotify*,Streaming
-DOMAIN-SUFFIX,pscdn.co,Streaming
-DOMAIN-SUFFIX,scdn.co,Streaming
-DOMAIN-SUFFIX,spotify.com,Streaming
-DOMAIN-SUFFIX,spoti.fi,Streaming
-DOMAIN-KEYWORD,spotify.com,Streaming
-DOMAIN-KEYWORD,-spotify-com,Streaming
+USER-AGENT,Spotify*,💻 国外影视
+DOMAIN-SUFFIX,pscdn.co,💻 国外影视
+DOMAIN-SUFFIX,scdn.co,💻 国外影视
+DOMAIN-SUFFIX,spotify.com,💻 国外影视
+DOMAIN-SUFFIX,spoti.fi,💻 国外影视
+DOMAIN-KEYWORD,spotify.com,💻 国外影视
+DOMAIN-KEYWORD,-spotify-com,💻 国外影视
 # > TIDAL
-USER-AGENT,TIDAL*,Streaming
-DOMAIN-SUFFIX,tidal.com,Streaming
+USER-AGENT,TIDAL*,💻 国外影视
+DOMAIN-SUFFIX,tidal.com,💻 国外影视
 # > YouTubeMusic
-USER-AGENT,com.google.ios.youtubemusic*,Streaming
-USER-AGENT,YouTubeMusic*,Streaming
+USER-AGENT,com.google.ios.youtubemusic*,💻 国外影视
+USER-AGENT,YouTubeMusic*,💻 国外影视
 
 # (Podcast)
 # > Himalaya
-USER-AGENT,Himalaya*,Streaming
-DOMAIN-SUFFIX,himalaya.com,Streaming
+USER-AGENT,Himalaya*,💻 国外影视
+DOMAIN-SUFFIX,himalaya.com,💻 国外影视
 # > Overcast
-USER-AGENT,Overcast*,Streaming
-DOMAIN-SUFFIX,overcast.fm,Streaming
+USER-AGENT,Overcast*,💻 国外影视
+DOMAIN-SUFFIX,overcast.fm,💻 国外影视
 
 # (Video)
 # > AbemaTV
-USER-AGENT,AbemaTV*,Streaming
-DOMAIN-SUFFIX,abema.io,Streaming
-DOMAIN-SUFFIX,abema.tv,Streaming
-DOMAIN-SUFFIX,abema-tv.com,Streaming
-DOMAIN-SUFFIX,ameba.jp,Streaming
-DOMAIN-SUFFIX,hayabusa.io,Streaming
-DOMAIN-SUFFIX,hayabusa.media,Streaming
-DOMAIN,api-abematv.bucketeer.jp,Streaming
-DOMAIN-KEYWORD,abematv.akamaized.net,Streaming
+USER-AGENT,AbemaTV*,💻 国外影视
+DOMAIN-SUFFIX,abema.io,💻 国外影视
+DOMAIN-SUFFIX,abema.tv,💻 国外影视
+DOMAIN-SUFFIX,abema-tv.com,💻 国外影视
+DOMAIN-SUFFIX,ameba.jp,💻 国外影视
+DOMAIN-SUFFIX,hayabusa.io,💻 国外影视
+DOMAIN-SUFFIX,hayabusa.media,💻 国外影视
+DOMAIN,api-abematv.bucketeer.jp,💻 国外影视
+DOMAIN-KEYWORD,abematv.akamaized.net,💻 国外影视
 # > All 4
-USER-AGENT,All4*,Streaming
-DOMAIN-SUFFIX,c4assets.com,Streaming
-DOMAIN-SUFFIX,channel4.com,Streaming
+USER-AGENT,All4*,💻 国外影视
+DOMAIN-SUFFIX,c4assets.com,💻 国外影视
+DOMAIN-SUFFIX,channel4.com,💻 国外影视
 # > Amazon Prime Video
-USER-AGENT,InstantVideo.US*,Streaming
-USER-AGENT,Prime%20Video*,Streaming
-DOMAIN-SUFFIX,aiv-cdn.net,Streaming
-DOMAIN-SUFFIX,aiv-delivery.net,Streaming
-DOMAIN-SUFFIX,amazonvideo.com,Streaming
-DOMAIN-SUFFIX,media-amazon.com,Streaming
-DOMAIN-SUFFIX,primevideo.com,Streaming
-DOMAIN-SUFFIX,pv-cdn.net,Streaming
-DOMAIN,atv-ps.amazon.com,Streaming
-DOMAIN,fls-na.amazon.com,Streaming
-DOMAIN,avodmp4s3ww-a.akamaihd.net,Streaming
-DOMAIN,d25xi40x97liuc.cloudfront.net,Streaming
-DOMAIN,dmqdd6hw24ucf.cloudfront.net,Streaming
-DOMAIN,dmqdd6hw24ucf.cloudfront.net,Streaming
-DOMAIN,d22qjgkvxw22r6.cloudfront.net,Streaming
-DOMAIN,d1v5ir2lpwr8os.cloudfront.net,Streaming
-DOMAIN,d27xxe7juh1us6.cloudfront.net,Streaming
-# DOMAIN,www.amazon.com,Streaming
-DOMAIN-KEYWORD,avoddashs,Streaming
+USER-AGENT,InstantVideo.US*,💻 国外影视
+USER-AGENT,Prime%20Video*,💻 国外影视
+DOMAIN-SUFFIX,aiv-cdn.net,💻 国外影视
+DOMAIN-SUFFIX,aiv-delivery.net,💻 国外影视
+DOMAIN-SUFFIX,amazonvideo.com,💻 国外影视
+DOMAIN-SUFFIX,media-amazon.com,💻 国外影视
+DOMAIN-SUFFIX,primevideo.com,💻 国外影视
+DOMAIN-SUFFIX,pv-cdn.net,💻 国外影视
+DOMAIN,atv-ps.amazon.com,💻 国外影视
+DOMAIN,fls-na.amazon.com,💻 国外影视
+DOMAIN,avodmp4s3ww-a.akamaihd.net,💻 国外影视
+DOMAIN,d25xi40x97liuc.cloudfront.net,💻 国外影视
+DOMAIN,dmqdd6hw24ucf.cloudfront.net,💻 国外影视
+DOMAIN,dmqdd6hw24ucf.cloudfront.net,💻 国外影视
+DOMAIN,d22qjgkvxw22r6.cloudfront.net,💻 国外影视
+DOMAIN,d1v5ir2lpwr8os.cloudfront.net,💻 国外影视
+DOMAIN,d27xxe7juh1us6.cloudfront.net,💻 国外影视
+# DOMAIN,www.amazon.com,💻 国外影视
+DOMAIN-KEYWORD,avoddashs,💻 国外影视
 # > Apple Music TV
-DOMAIN,tv.applemusic.com,Streaming
+DOMAIN,tv.applemusic.com,💻 国外影视
 # > Apple TV
-DOMAIN,linear.tv.apple.com,Streaming
-DOMAIN,play-edge.itunes.apple.com,Streaming
-DOMAIN,uts-api.itunes.apple.com,Streaming
+DOMAIN,linear.tv.apple.com,💻 国外影视
+DOMAIN,play-edge.itunes.apple.com,💻 国外影视
+DOMAIN,uts-api.itunes.apple.com,💻 国外影视
 # > Bahamut
-USER-AGENT,Anime*,Streaming
-DOMAIN-SUFFIX,bahamut.com.tw,Streaming
-DOMAIN-SUFFIX,gamer.com.tw,Streaming
-DOMAIN,bahamut.akamaized.net,Streaming
-DOMAIN,gamer-cds.cdn.hinet.net,Streaming
-DOMAIN,gamer2-cds.cdn.hinet.net,Streaming
+USER-AGENT,Anime*,💻 国外影视
+DOMAIN-SUFFIX,bahamut.com.tw,💻 国外影视
+DOMAIN-SUFFIX,gamer.com.tw,💻 国外影视
+DOMAIN,bahamut.akamaized.net,💻 国外影视
+DOMAIN,gamer-cds.cdn.hinet.net,💻 国外影视
+DOMAIN,gamer2-cds.cdn.hinet.net,💻 国外影视
 # > BBC iPlayer
-USER-AGENT,BBCiPlayer*,Streaming
-DOMAIN-SUFFIX,bbc.co.uk,Streaming
-DOMAIN-SUFFIX,bbci.co.uk,Streaming
-DOMAIN-KEYWORD,bbcfmt,Streaming
-DOMAIN-KEYWORD,uk-live,Streaming
+USER-AGENT,BBCiPlayer*,💻 国外影视
+DOMAIN-SUFFIX,bbc.co.uk,💻 国外影视
+DOMAIN-SUFFIX,bbci.co.uk,💻 国外影视
+DOMAIN-KEYWORD,bbcfmt,💻 国外影视
+DOMAIN-KEYWORD,uk-live,💻 国外影视
 # > bilibili Intl
-DOMAIN-SUFFIX,biliintl.com,Streaming
-DOMAIN,apm-misaka.biliapi.net,Streaming
-DOMAIN,p.bstarstatic.com,Streaming
-DOMAIN,p-bstarstatic.akamaized.net,Streaming
-DOMAIN,upos-bstar-mirrorakam.akamaized.net,Streaming
-DOMAIN,upos-bstar1-mirrorakam.akamaized.net,Streaming
+DOMAIN-SUFFIX,biliintl.com,💻 国外影视
+DOMAIN,apm-misaka.biliapi.net,💻 国外影视
+DOMAIN,p.bstarstatic.com,💻 国外影视
+DOMAIN,p-bstarstatic.akamaized.net,💻 国外影视
+DOMAIN,upos-bstar-mirrorakam.akamaized.net,💻 国外影视
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net,💻 国外影视
 # > DAZN
-USER-AGENT,DAZN*,Streaming
-DOMAIN-SUFFIX,dazn.com,Streaming
-DOMAIN-SUFFIX,dazn-api.com,Streaming
-DOMAIN-SUFFIX,dazndn.com,Streaming
-DOMAIN-SUFFIX,indazn.com,Streaming
-DOMAIN,d151l6v8er5bdm.cloudfront.net,Streaming
-DOMAIN-KEYWORD,voddazn,Streaming
+USER-AGENT,DAZN*,💻 国外影视
+DOMAIN-SUFFIX,dazn.com,💻 国外影视
+DOMAIN-SUFFIX,dazn-api.com,💻 国外影视
+DOMAIN-SUFFIX,dazndn.com,💻 国外影视
+DOMAIN-SUFFIX,indazn.com,💻 国外影视
+DOMAIN,d151l6v8er5bdm.cloudfront.net,💻 国外影视
+DOMAIN-KEYWORD,voddazn,💻 国外影视
 # > discovery+
-USER-AGENT,DPlus*,Streaming
-USER-AGENT,discovery+*,Streaming
-DOMAIN-SUFFIX,disco-api.com,Streaming
-DOMAIN-SUFFIX,discoveryplus.co.uk,Streaming
-DOMAIN-SUFFIX,discoveryplus.com,Streaming
-DOMAIN-SUFFIX,discoveryplus.in,Streaming
-DOMAIN-SUFFIX,dnitv.com,Streaming
-# DOMAIN,go-prod-vz.akamaized.net,Streaming
-DOMAIN,x-default-stgec.uplynk.com,Streaming
-DOMAIN-KEYWORD,discovery.uplynk.com,Streaming
+USER-AGENT,DPlus*,💻 国外影视
+USER-AGENT,discovery+*,💻 国外影视
+DOMAIN-SUFFIX,disco-api.com,💻 国外影视
+DOMAIN-SUFFIX,discoveryplus.co.uk,💻 国外影视
+DOMAIN-SUFFIX,discoveryplus.com,💻 国外影视
+DOMAIN-SUFFIX,discoveryplus.in,💻 国外影视
+DOMAIN-SUFFIX,dnitv.com,💻 国外影视
+# DOMAIN,go-prod-vz.akamaized.net,💻 国外影视
+DOMAIN,x-default-stgec.uplynk.com,💻 国外影视
+DOMAIN-KEYWORD,discovery.uplynk.com,💻 国外影视
 # > Disney+
-USER-AGENT,Disney+*,Streaming
-DOMAIN-SUFFIX,bamgrid.com,Streaming
-DOMAIN-SUFFIX,disneyplus.com,Streaming
-DOMAIN-SUFFIX,disney-plus.net,Streaming
-DOMAIN-SUFFIX,disneystreaming.com,Streaming
-DOMAIN-SUFFIX,dssott.com,Streaming
-DOMAIN,cdn.registerdisney.go.com,Streaming
+USER-AGENT,Disney+*,💻 国外影视
+DOMAIN-SUFFIX,bamgrid.com,💻 国外影视
+DOMAIN-SUFFIX,disneyplus.com,💻 国外影视
+DOMAIN-SUFFIX,disney-plus.net,💻 国外影视
+DOMAIN-SUFFIX,disney💻 国外影视.com,💻 国外影视
+DOMAIN-SUFFIX,dssott.com,💻 国外影视
+DOMAIN,cdn.registerdisney.go.com,💻 国外影视
 # > DMM
-DOMAIN-SUFFIX,dmm.co.jp,Streaming
-DOMAIN-SUFFIX,dmm.com,Streaming
-DOMAIN-SUFFIX,dmm-extension.com,Streaming
+DOMAIN-SUFFIX,dmm.co.jp,💻 国外影视
+DOMAIN-SUFFIX,dmm.com,💻 国外影视
+DOMAIN-SUFFIX,dmm-extension.com,💻 国外影视
 # > encoreTVB
-USER-AGENT,encoreTVB*,Streaming
-DOMAIN-SUFFIX,encoretvb.com,Streaming
-DOMAIN,edge.api.brightcove.com,Streaming
-DOMAIN,bcbolt446c5271-a.akamaihd.net,Streaming
+USER-AGENT,encoreTVB*,💻 国外影视
+DOMAIN-SUFFIX,encoretvb.com,💻 国外影视
+DOMAIN,edge.api.brightcove.com,💻 国外影视
+DOMAIN,bcbolt446c5271-a.akamaihd.net,💻 国外影视
 # > Hami Video
-DOMAIN-SUFFIX,ott.hinet.net,Streaming
-DOMAIN-SUFFIX,hamivideo.hinet.net,Streaming
-DOMAIN,hls-hichannel.cdn.hinet.net,Streaming
-DOMAIN-KEYWORD,hamivideo.cdn.hinet.net,Streaming
+DOMAIN-SUFFIX,ott.hinet.net,💻 国外影视
+DOMAIN-SUFFIX,hamivideo.hinet.net,💻 国外影视
+DOMAIN,hls-hichannel.cdn.hinet.net,💻 国外影视
+DOMAIN-KEYWORD,hamivideo.cdn.hinet.net,💻 国外影视
 # > HBO NOW & Max
-USER-AGENT,HBO%20NOW*,Streaming
-DOMAIN-SUFFIX,hbo.com,Streaming
-DOMAIN-SUFFIX,hbogo.com,Streaming
-DOMAIN-SUFFIX,hbonow.com,Streaming
-USER-AGENT,HBOMAX*,Streaming
-DOMAIN-SUFFIX,hbomax.com,Streaming
-DOMAIN-SUFFIX,hbomaxcdn.com,Streaming
+USER-AGENT,HBO%20NOW*,💻 国外影视
+DOMAIN-SUFFIX,hbo.com,💻 国外影视
+DOMAIN-SUFFIX,hbogo.com,💻 国外影视
+DOMAIN-SUFFIX,hbonow.com,💻 国外影视
+USER-AGENT,HBOMAX*,💻 国外影视
+DOMAIN-SUFFIX,hbomax.com,💻 国外影视
+DOMAIN-SUFFIX,hbomaxcdn.com,💻 国外影视
 # > HBO Asia
-USER-AGENT,HBO%20GO%20PROD*,Streaming
-DOMAIN-SUFFIX,hbogoasia.com,Streaming
-DOMAIN-SUFFIX,hbogoasia.hk,Streaming
-DOMAIN-KEYWORD,.hbogoasia.,Streaming
-DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Streaming
-DOMAIN,bcbolthboa-a.akamaihd.net,Streaming
-DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,Streaming
-DOMAIN,dai3fd1oh325y.cloudfront.net,Streaming
-DOMAIN,hboasia1-i.akamaihd.net,Streaming
-DOMAIN,hboasia2-i.akamaihd.net,Streaming
-DOMAIN,hboasia3-i.akamaihd.net,Streaming
-DOMAIN,hboasia4-i.akamaihd.net,Streaming
-DOMAIN,hboasia5-i.akamaihd.net,Streaming
-DOMAIN,hboasialive.akamaized.net,Streaming
-DOMAIN,hbogoprod-vod.akamaized.net,Streaming
-DOMAIN,hbolb.onwardsmg.com,Streaming
-DOMAIN,hbounify-prod.evergent.com,Streaming
-DOMAIN,players.brightcove.net,Streaming
-DOMAIN,s3-ap-southeast-1.amazonaws.com,Streaming
+USER-AGENT,HBO%20GO%20PROD*,💻 国外影视
+DOMAIN-SUFFIX,hbogoasia.com,💻 国外影视
+DOMAIN-SUFFIX,hbogoasia.hk,💻 国外影视
+DOMAIN-KEYWORD,.hbogoasia.,💻 国外影视
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,💻 国外影视
+DOMAIN,bcbolthboa-a.akamaihd.net,💻 国外影视
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,💻 国外影视
+DOMAIN,dai3fd1oh325y.cloudfront.net,💻 国外影视
+DOMAIN,hboasia1-i.akamaihd.net,💻 国外影视
+DOMAIN,hboasia2-i.akamaihd.net,💻 国外影视
+DOMAIN,hboasia3-i.akamaihd.net,💻 国外影视
+DOMAIN,hboasia4-i.akamaihd.net,💻 国外影视
+DOMAIN,hboasia5-i.akamaihd.net,💻 国外影视
+DOMAIN,hboasialive.akamaized.net,💻 国外影视
+DOMAIN,hbogoprod-vod.akamaized.net,💻 国外影视
+DOMAIN,hbolb.onwardsmg.com,💻 国外影视
+DOMAIN,hbounify-prod.evergent.com,💻 国外影视
+DOMAIN,players.brightcove.net,💻 国外影视
+DOMAIN,s3-ap-southeast-1.amazonaws.com,💻 国外影视
 # > 华文电视
-USER-AGENT,HWTVMobile*,Streaming
-DOMAIN-SUFFIX,5itv.tv,Streaming
-DOMAIN-SUFFIX,ocnttv.com,Streaming
+USER-AGENT,HWTVMobile*,💻 国外影视
+DOMAIN-SUFFIX,5itv.tv,💻 国外影视
+DOMAIN-SUFFIX,ocnttv.com,💻 国外影视
 # > Hulu
-DOMAIN-SUFFIX,hulu.com,Streaming
-DOMAIN-SUFFIX,huluim.com,Streaming
-DOMAIN-SUFFIX,hulustream.com,Streaming
+DOMAIN-SUFFIX,hulu.com,💻 国外影视
+DOMAIN-SUFFIX,huluim.com,💻 国外影视
+DOMAIN-SUFFIX,hulustream.com,💻 国外影视
 # > Hulu / フールー
-DOMAIN-SUFFIX,happyon.jp,Streaming
-DOMAIN-SUFFIX,hjholdings.jp,Streaming
-DOMAIN-SUFFIX,hulu.jp,Streaming
+DOMAIN-SUFFIX,happyon.jp,💻 国外影视
+DOMAIN-SUFFIX,hjholdings.jp,💻 国外影视
+DOMAIN-SUFFIX,hulu.jp,💻 国外影视
 # > ITV
-USER-AGENT,ITV_Player*,Streaming
-DOMAIN-SUFFIX,itv.com,Streaming
-DOMAIN-SUFFIX,itvstatic.com,Streaming
-DOMAIN,itvpnpmobile-a.akamaihd.net,Streaming
+USER-AGENT,ITV_Player*,💻 国外影视
+DOMAIN-SUFFIX,itv.com,💻 国外影视
+DOMAIN-SUFFIX,itvstatic.com,💻 国外影视
+DOMAIN,itvpnpmobile-a.akamaihd.net,💻 国外影视
 # > iQIYI
-DOMAIN-SUFFIX,iq.com,Streaming
-DOMAIN,intl.iqiyi.com,Streaming
-DOMAIN,intl-rcd.iqiyi.com,Streaming
-DOMAIN,intl-subscription.iqiyi.com,Streaming
-IP-CIDR,23.53.32.88/32,Streaming
-IP-CIDR,23.211.15.99/32,Streaming
-IP-CIDR,103.5.34.153/32,Streaming
-IP-CIDR,104.109.129.153/32,Streaming
-IP-CIDR,110.238.107.47/32,Streaming
-IP-CIDR,118.26.32.178/32,Streaming
-IP-CIDR,203.74.95.131/32,Streaming
-IP-CIDR,203.74.95.139/32,Streaming
-IP-CIDR,203.74.95.153/32,Streaming
-IP-CIDR,203.211.4.169/32,Streaming
-IP-CIDR,203.211.4.193/32,Streaming
-IP-CIDR,210.71.227.200/32,Streaming
-IP-CIDR,210.71.227.202/32,Streaming
-IP-CIDR,210.201.32.8/32,Streaming
-IP-CIDR,210.201.32.11/32,Streaming
+DOMAIN-SUFFIX,iq.com,💻 国外影视
+DOMAIN,intl.iqiyi.com,💻 国外影视
+DOMAIN,intl-rcd.iqiyi.com,💻 国外影视
+DOMAIN,intl-subscription.iqiyi.com,💻 国外影视
+IP-CIDR,23.53.32.88/32,💻 国外影视
+IP-CIDR,23.211.15.99/32,💻 国外影视
+IP-CIDR,103.5.34.153/32,💻 国外影视
+IP-CIDR,104.109.129.153/32,💻 国外影视
+IP-CIDR,110.238.107.47/32,💻 国外影视
+IP-CIDR,118.26.32.178/32,💻 国外影视
+IP-CIDR,203.74.95.131/32,💻 国外影视
+IP-CIDR,203.74.95.139/32,💻 国外影视
+IP-CIDR,203.74.95.153/32,💻 国外影视
+IP-CIDR,203.211.4.169/32,💻 国外影视
+IP-CIDR,203.211.4.193/32,💻 国外影视
+IP-CIDR,210.71.227.200/32,💻 国外影视
+IP-CIDR,210.71.227.202/32,💻 国外影视
+IP-CIDR,210.201.32.8/32,💻 国外影视
+IP-CIDR,210.201.32.11/32,💻 国外影视
 # > KKTV
-USER-AGENT,KKTV*,Streaming
-USER-AGENT,com.kktv.ios.kktv*,Streaming
-DOMAIN-SUFFIX,kktv.com.tw,Streaming
-DOMAIN-SUFFIX,kktv.me,Streaming
-DOMAIN,kktv-theater.kk.stream,Streaming
+USER-AGENT,KKTV*,💻 国外影视
+USER-AGENT,com.kktv.ios.kktv*,💻 国外影视
+DOMAIN-SUFFIX,kktv.com.tw,💻 国外影视
+DOMAIN-SUFFIX,kktv.me,💻 国外影视
+DOMAIN,kktv-theater.kk.stream,💻 国外影视
 # > LINE TV
-USER-AGENT,LINE%20TV*,Streaming
-DOMAIN-SUFFIX,linetv.tw,Streaming
-DOMAIN,d3c7rimkq79yfu.cloudfront.net,Streaming
+USER-AGENT,LINE%20TV*,💻 国外影视
+DOMAIN-SUFFIX,linetv.tw,💻 国外影视
+DOMAIN,d3c7rimkq79yfu.cloudfront.net,💻 国外影视
 # > LiTV
-DOMAIN-SUFFIX,litv.tv,Streaming
-DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,Streaming
+DOMAIN-SUFFIX,litv.tv,💻 国外影视
+DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,💻 国外影视
 # > My5
-USER-AGENT,My5*,Streaming
-DOMAIN-SUFFIX,channel5.com,Streaming
-DOMAIN-SUFFIX,my5.tv,Streaming
-DOMAIN,d349g9zuie06uo.cloudfront.net,Streaming
+USER-AGENT,My5*,💻 国外影视
+DOMAIN-SUFFIX,channel5.com,💻 国外影视
+DOMAIN-SUFFIX,my5.tv,💻 国外影视
+DOMAIN,d349g9zuie06uo.cloudfront.net,💻 国外影视
 # > myTV SUPER
-USER-AGENT,mytv*,Streaming
-DOMAIN-SUFFIX,mytvsuper.com,Streaming
-DOMAIN-SUFFIX,tvb.com,Streaming
+USER-AGENT,mytv*,💻 国外影视
+DOMAIN-SUFFIX,mytvsuper.com,💻 国外影视
+DOMAIN-SUFFIX,tvb.com,💻 国外影视
 # > Naver TV
-USER-AGENT,Naver%20TV*,Streaming
-DOMAIN-SUFFIX,naver.com,Streaming
-DOMAIN-SUFFIX,smartmediarep.com,Streaming
+USER-AGENT,Naver%20TV*,💻 国外影视
+DOMAIN-SUFFIX,naver.com,💻 国外影视
+DOMAIN-SUFFIX,smartmediarep.com,💻 国外影视
 # > niconico
-USER-AGENT,Niconico*,Streaming
-DOMAIN-SUFFIX,dmc.nico,Streaming
-DOMAIN-SUFFIX,nicovideo.jp,Streaming
-DOMAIN-SUFFIX,nimg.jp,Streaming
+USER-AGENT,Niconico*,💻 国外影视
+DOMAIN-SUFFIX,dmc.nico,💻 国外影视
+DOMAIN-SUFFIX,nicovideo.jp,💻 国外影视
+DOMAIN-SUFFIX,nimg.jp,💻 国外影视
 # > Now E
-DOMAIN-SUFFIX,nowe.com,Streaming
-DOMAIN-SUFFIX,nowestatic.com,Streaming
+DOMAIN-SUFFIX,nowe.com,💻 国外影视
+DOMAIN-SUFFIX,nowestatic.com,💻 国外影视
 # > Paramount+
-USER-AGENT,PPlus*,Streaming
-DOMAIN-SUFFIX,cbsi.com,Streaming
-DOMAIN-SUFFIX,cbsaavideo.com,Streaming
-DOMAIN-SUFFIX,cbsivideo.com,Streaming
-DOMAIN-SUFFIX,paramountplus.com,Streaming
-DOMAIN-SUFFIX,pplusstatic.com,Streaming
-DOMAIN,cbsi.live.ott.irdeto.com,Streaming
-DOMAIN,cbsplaylistserver.aws.syncbak.com,Streaming
-DOMAIN,cbsservice.aws.syncbak.com,Streaming
-DOMAIN,link.theplatform.com,Streaming
+USER-AGENT,PPlus*,💻 国外影视
+DOMAIN-SUFFIX,cbsi.com,💻 国外影视
+DOMAIN-SUFFIX,cbsaavideo.com,💻 国外影视
+DOMAIN-SUFFIX,cbsivideo.com,💻 国外影视
+DOMAIN-SUFFIX,paramountplus.com,💻 国外影视
+DOMAIN-SUFFIX,pplusstatic.com,💻 国外影视
+DOMAIN,cbsi.live.ott.irdeto.com,💻 国外影视
+DOMAIN,cbsplaylistserver.aws.syncbak.com,💻 国外影视
+DOMAIN,cbsservice.aws.syncbak.com,💻 国外影视
+DOMAIN,link.theplatform.com,💻 国外影视
 # > PBS
-USER-AGENT,PBS*,Streaming
-DOMAIN-SUFFIX,pbs.org,Streaming
+USER-AGENT,PBS*,💻 国外影视
+DOMAIN-SUFFIX,pbs.org,💻 国外影视
 # > Peacock
-USER-AGENT,PeacockMobile*,Streaming
-DOMAIN-SUFFIX,peacocktv.com,Streaming
+USER-AGENT,PeacockMobile*,💻 国外影视
+DOMAIN-SUFFIX,peacocktv.com,💻 国外影视
 # > Pornhub
-DOMAIN-SUFFIX,phncdn.com,Streaming
-DOMAIN-SUFFIX,phprcdn.com,Streaming
-DOMAIN-SUFFIX,pornhub.com,Streaming
-DOMAIN-SUFFIX,pornhubpremium.com,Streaming
+DOMAIN-SUFFIX,phncdn.com,💻 国外影视
+DOMAIN-SUFFIX,phprcdn.com,💻 国外影视
+DOMAIN-SUFFIX,pornhub.com,💻 国外影视
+DOMAIN-SUFFIX,pornhubpremium.com,💻 国外影视
 # > 台湾好
-USER-AGENT,TaiwanGood*,Streaming
-DOMAIN-SUFFIX,skyking.com.tw,Streaming
-DOMAIN,hamifans.emome.net,Streaming
+USER-AGENT,TaiwanGood*,💻 国外影视
+DOMAIN-SUFFIX,skyking.com.tw,💻 国外影视
+DOMAIN,hamifans.emome.net,💻 国外影视
 # > TVer
-USER-AGENT,TVer-Release*,Streaming
-DOMAIN-SUFFIX,tver.jp,Streaming
-DOMAIN,edge.api.brightcove.com,Streaming
+USER-AGENT,TVer-Release*,💻 国外影视
+DOMAIN-SUFFIX,tver.jp,💻 国外影视
+DOMAIN,edge.api.brightcove.com,💻 国外影视
 # > ViuTV
-USER-AGENT,Viu*,Streaming
-DOMAIN-SUFFIX,viu.com,Streaming
-DOMAIN-SUFFIX,viu.tv,Streaming
-DOMAIN,api.viu.now.com,Streaming
-DOMAIN,d1k2us671qcoau.cloudfront.net,Streaming
-DOMAIN,d2anahhhmp1ffz.cloudfront.net,Streaming
-DOMAIN,dfp6rglgjqszk.cloudfront.net,Streaming
+USER-AGENT,Viu*,💻 国外影视
+DOMAIN-SUFFIX,viu.com,💻 国外影视
+DOMAIN-SUFFIX,viu.tv,💻 国外影视
+DOMAIN,api.viu.now.com,💻 国外影视
+DOMAIN,d1k2us671qcoau.cloudfront.net,💻 国外影视
+DOMAIN,d2anahhhmp1ffz.cloudfront.net,💻 国外影视
+DOMAIN,dfp6rglgjqszk.cloudfront.net,💻 国外影视
 # > WeTV
-USER-AGENT,WeTV*,Streaming
-DOMAIN-SUFFIX,wetv.vip,Streaming
-DOMAIN-SUFFIX,wetvinfo.com,Streaming
-IP-CIDR,150.109.28.51/32,Streaming
+USER-AGENT,WeTV*,💻 国外影视
+DOMAIN-SUFFIX,wetv.vip,💻 国外影视
+DOMAIN-SUFFIX,wetvinfo.com,💻 国外影视
+IP-CIDR,150.109.28.51/32,💻 国外影视

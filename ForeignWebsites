@@ -194,52 +194,6 @@ DOMAIN,d3c33hcgiwev3.cloudfront.net,PROXY
 DOMAIN,payments-jp.amazon.com,PROXY
 DOMAIN,s3-ap-northeast-1.amazonaws.com,PROXY
 DOMAIN,s3-ap-southeast-2.amazonaws.com,PROXY
-# > Alphabet
-DOMAIN-SUFFIX,abc.xyz,PROXY
-DOMAIN-SUFFIX,admob.com,PROXY
-DOMAIN-SUFFIX,adsense.com,PROXY
-DOMAIN-SUFFIX,advertisercommunity.com,PROXY
-DOMAIN-SUFFIX,ampproject.org,PROXY
-DOMAIN-SUFFIX,android.com,PROXY
-DOMAIN-SUFFIX,androidify.com,PROXY
-DOMAIN-SUFFIX,androidtv.com,PROXY
-DOMAIN-SUFFIX,api.ai,PROXY
-DOMAIN-SUFFIX,apigee.com,PROXY
-DOMAIN-SUFFIX,appspot.com,PROXY
-DOMAIN-SUFFIX,blogblog.com,PROXY
-DOMAIN-SUFFIX,blogger.com,PROXY
-DOMAIN-SUFFIX,chrome.com,PROXY
-DOMAIN-SUFFIX,chromium.org,PROXY
-DOMAIN-SUFFIX,debug.com,PROXY
-DOMAIN-SUFFIX,dialogflow.com,PROXY
-DOMAIN-SUFFIX,feedburner.com,PROXY
-DOMAIN-SUFFIX,firebaseio.com,PROXY
-DOMAIN-SUFFIX,g.co,PROXY
-DOMAIN-SUFFIX,getoutline.org,PROXY
-DOMAIN-SUFFIX,ggpht.com,PROXY
-DOMAIN-SUFFIX,gmail.com,PROXY
-DOMAIN-SUFFIX,gmodules.com,PROXY
-DOMAIN-SUFFIX,gvt0.com,PROXY
-DOMAIN-SUFFIX,gvt1.com,PROXY
-DOMAIN-SUFFIX,gvt3.com,PROXY
-DOMAIN-SUFFIX,itasoftware.com,PROXY
-DOMAIN-SUFFIX,on2.com,PROXY
-DOMAIN-SUFFIX,recaptcha.net,PROXY
-DOMAIN-SUFFIX,schema.org,PROXY
-DOMAIN-SUFFIX,tensorflow.org,PROXY
-DOMAIN-SUFFIX,tenor.com,PROXY
-DOMAIN-SUFFIX,tfhub.dev,PROXY
-DOMAIN-SUFFIX,tiltbrush.com,PROXY
-DOMAIN-SUFFIX,waymo.com,PROXY
-DOMAIN-SUFFIX,web.dev,PROXY
-DOMAIN-SUFFIX,webmproject.org,PROXY
-DOMAIN-SUFFIX,webrtc.org,PROXY
-DOMAIN-SUFFIX,widevine.com,PROXY
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com,PROXY
-DOMAIN-SUFFIX,zynamics.com,PROXY
-DOMAIN-KEYWORD,google,PROXY
-DOMAIN-KEYWORD,.blogspot.,PROXY
-DOMAIN-SUFFIX,goog,PROXY
 # > Apple
 DOMAIN,testflight.apple.com,PROXY
 # > Automattic
@@ -312,19 +266,6 @@ IP-CIDR,103.2.30.0/23,PROXY
 IP-CIDR,125.209.208.0/20,PROXY
 IP-CIDR,147.92.128.0/17,PROXY
 IP-CIDR,203.104.144.0/21,PROXY
-# > Microsoft
-DOMAIN-SUFFIX,aka.ms,PROXY
-DOMAIN-SUFFIX,github.blog,PROXY
-DOMAIN-SUFFIX,github.com,PROXY
-DOMAIN-SUFFIX,github.io,PROXY
-DOMAIN-SUFFIX,githubassets.com,PROXY
-DOMAIN-SUFFIX,githubusercontent.com,PROXY
-DOMAIN-SUFFIX,onedrive.live.com,PROXY
-DOMAIN-SUFFIX,streaming.mediaservices.windows.net,PROXY
-DOMAIN,assets1.xboxlive.com,PROXY
-DOMAIN,assets2.xboxlive.com,PROXY
-DOMAIN,az416426.vo.msecnd.net,PROXY
-DOMAIN,az668014.vo.msecnd.net,PROXY
 # > Pinterest
 DOMAIN-SUFFIX,pinimg.com,PROXY
 DOMAIN-KEYWORD,.pinterest.,PROXY
@@ -444,9 +385,3 @@ DOMAIN,news-edge.apple.com,PROXY
 DOMAIN,news-events.apple.com,PROXY
 DOMAIN,apple.comscoreresearch.com,PROXY
 # ------
-# > Microsoft
-DOMAIN-SUFFIX,bing.com,PROXY
-DOMAIN-SUFFIX,linkedin.com,PROXY
-DOMAIN-SUFFIX,licdn.com,PROXY
-DOMAIN-SUFFIX,msn.com,PROXY
-DOMAIN-SUFFIX,skype.com,PROXY
